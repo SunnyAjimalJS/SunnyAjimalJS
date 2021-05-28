@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @SunnyAjimalJS
-- 👀 I’m interested in Junior Software Developer roles
-- 🌱 I’m currently learning JavaScript, React, Redux and Node
-- 💞️ I’m looking to collaborate on Open Source projects 
+- 🌱 I’m experienced in using JavaScript, React, Redux and Node 
 - 📫 How to reach me - sunny.ajimal90@gmail.com
 
 <!---
